@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis
+# Exploratory Data Analysis
 This project is about exploratory data analysis on "Individual household electric power consumption Data Set"
 
 ## Dataset 
